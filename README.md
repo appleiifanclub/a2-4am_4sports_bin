@@ -2,4 +2,4 @@ This GitHub repository provides binary release from [4sports](https://github.com
 
 ![Instant Replay Cover](https://github.com/appleiifanclub/a2-4am_4sports_bin/blob/ba125bbc5c17970db08e4ace2f34e79eb0bb957b/image/Instant%20Replay%20cover.png?raw=true)
 
-![Instant Replay build 390](https://github.com/appleiifanclub/a2-4am_4sports_bin/blob/74864c9766630e5abada0679eca86bde1d348b13/image/Instant%20Replay%20build%20390.png?raw=true)
+![Instant Replay build 391](https://github.com/appleiifanclub/a2-4am_4sports_bin/blob/7631dada3123d1e0ad4598b8af45a522373b0533/image/Instant%20Replay%20build%20391.png?raw=true)
